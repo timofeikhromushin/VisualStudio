@@ -1,0 +1,14 @@
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.AssemblyInfoInputs.cache
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.AssemblyInfo.cs
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.csproj.CoreCompileInputs.cache
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\bin\Debug\net6.0\Khromushin.nomer6.exe
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\bin\Debug\net6.0\Khromushin.nomer6.deps.json
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\bin\Debug\net6.0\Khromushin.nomer6.runtimeconfig.json
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\bin\Debug\net6.0\Khromushin.nomer6.dll
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\bin\Debug\net6.0\Khromushin.nomer6.pdb
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.dll
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\refint\Khromushin.nomer6.dll
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.pdb
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\Khromushin.nomer6.genruntimeconfig.cache
+C:\Users\timof\Desktop\VisualStudio\Khromushin.nomer6\Khromushin.nomer6\obj\Debug\net6.0\ref\Khromushin.nomer6.dll

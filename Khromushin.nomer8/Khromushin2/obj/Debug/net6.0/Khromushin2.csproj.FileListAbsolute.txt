@@ -1,0 +1,14 @@
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\bin\Debug\net6.0\Khromushin2.exe
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\bin\Debug\net6.0\Khromushin2.deps.json
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\bin\Debug\net6.0\Khromushin2.runtimeconfig.json
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\bin\Debug\net6.0\Khromushin2.dll
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\bin\Debug\net6.0\Khromushin2.pdb
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.AssemblyInfoInputs.cache
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.AssemblyInfo.cs
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.csproj.CoreCompileInputs.cache
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.dll
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\refint\Khromushin2.dll
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.pdb
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\Khromushin2.genruntimeconfig.cache
+C:\Users\timof\Desktop\Khromushin2\Khromushin2\obj\Debug\net6.0\ref\Khromushin2.dll
